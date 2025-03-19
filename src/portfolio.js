@@ -141,7 +141,7 @@ const workExperiences = {
     {
       role: "Développeur Full Stack Java/Angular (Freelance)",
       company: "Freelance",
-      companylogo: require("./assets/images/LogoFreelancee.jpeg"),
+      companylogo: require("./assets/images/freelanceLogo.jpg"),
       date: "Octobre 2024 – Présent",
       desc: "Développement d’une application web pour la gestion des réservations d’hôtel.",
       descBullets: [
