@@ -1,0 +1,105 @@
+/* Change colors in this file to style to your needs on a global level. 
+Certain colors are used for different and multiply types of elements. 
+For greater control over colors visit each components .scss file. */
+
+// button colors
+$buttonColor: #007bff; // Bleu clair pour les boutons
+$buttonHover: #0056b3; // Bleu foncé pour le survol
+$topButtonHover: #003366; // Bleu marine pour le survol
+
+// text colors light theme
+$titleColor: #212529; // Gris très foncé pour le titre
+$textColor: #495057; // Gris moyen pour le texte
+$subTitle: #6c757d; // Gris clair pour les sous-titres
+$cardSubtitle: #adb5bd; // Gris pour les sous-titres des cartes
+$talkCardSubTitle: #868e96; // Gris pour le texte secondaire des cartes de discussion
+$blogCardTitleColor: #343a40; // Gris anthracite pour les titres de blog
+
+// text color dark theme
+$textColorDark: #f8f9fa; // Blanc cassé pour le texte en mode sombre
+
+// toggle switch colors
+$toggleCheck: #2196f3; // Bleu clair pour les cases à cocher
+$toggleSwitchSliderBG: #ccc; // Gris clair pour le fond des interrupteurs
+
+// githubRepo specific colors
+$githubRepoCardLanguageColorBG: #0000ff; // Bleu pour la couleur du langage
+$githubRepoCardColor: rgb(88, 96, 105); // Gris pour les cartes de repo GitHub
+$githubRepoCardRepoCardStatsColor: rgb(
+  106,
+  115,
+  125
+); // Gris pour les stats du repo
+$githubRepoCardRepoNameColor: rgb(36, 41, 46); // Gris foncé pour le nom du repo
+$githubProfileCardLocationTS: #ffebcd; // Couleur douce pour la localisation
+$githubProfileCardBorder: #6c63ff; // Violet pour la bordure du profil GitHub
+
+// light background colors
+$lightBackground1: #f8f9fa; // Fond clair pour une apparence propre
+$lightBackground2: #ffffff; // Blanc classique
+$lightBackground3: #f1f3f5; // Gris très clair pour des arrière-plans subtils
+$blogCardContainerColor: #586069; // Gris pour les cartes de blog
+
+// dark background colors
+$darkBackground: #343a40; // Gris foncé pour le mode sombre
+
+// light theme box shadows
+$lightBoxShadowDark: rgba(0, 0, 0, 0.2); // Ombre douce
+$lightBoxShadow: rgba(0, 0, 0, 0.1); // Ombre légère pour un effet subtile
+$lightBoxShadowDarker: rgba(
+  0,
+  0,
+  0,
+  0.3
+); // Ombre plus foncée pour des éléments en survol
+
+// dark theme box shadows
+$darkBoxShadow: #d9dbdf; // Ombre plus claire pour le mode sombre
+$darkBoxShadow2: #ffffff; // Ombre blanche pour des éléments plus légers
+
+// linear gradients
+$experienceCardBlurredDivLG: linear-gradient(
+  rgba(0, 0, 0, 0.4),
+  rgba(0, 0, 0, 0.2)
+); // Gradient sombre pour les cartes d'expérience
+$experienceCardBannerLG: linear-gradient(
+  rgba(0, 0, 0, 0.7),
+  rgba(0, 0, 0, 0.5)
+); // Gradient plus fort pour les bannières d'expérience
+
+// borders
+$progressBarBackground: #e9ecef; // Fond clair pour la barre de progression
+$lightBorder1: #ced4da; // Bordure grise légère
+$educationCardBorder: #adb5bd; // Bordure gris doux pour les cartes d'éducation
+
+// hovers
+$achievementCertificateCardHoverDark: rgba(
+  0,
+  0,
+  0,
+  0.1
+); // Survol léger des cartes de certificats
+$blogCardHoverSmallColor: rgba(0, 0, 0, 0.1); // Survol léger des cartes de blog
+$headerHoverBG: #f4f4f4; // Fond léger au survol des éléments d'en-tête
+$contactDetailHoverTS: #b5b5b5; // Survol des détails du contact
+
+// misc backgrounds
+$progressBarSpanBG: #aaa5ff; // Fond clair pour les barres de progression
+$iconBackground: #333; // Fond sombre pour les icônes
+$appHeaderBG: #282c34; // Fond sombre pour l'en-tête de l'application
+
+// misc colors
+$skillsColor: #645beb; // Couleur vive pour les compétences
+$appLink: #09d3ac; // Teinte vibrante pour les liens dans l'app
+
+// social media icons
+$faceBook: #4267b2; // Bleu classique de Facebook
+$linkedin: #0077b5; // Bleu foncé de LinkedIn
+$github: #333333; // Gris foncé pour GitHub
+$gitlab: #fca326; // Jaune/orange pour GitLab
+$google: #db4437; // Rouge de Google
+$twitter: #1da1f2; // Bleu clair pour Twitter
+$medium: #00ab6c; // Vert foncé pour Medium
+$stackoverflow: #f48024; // Orange pour StackOverflow
+$instagram: #c13584; // Violet pour Instagram
+$kaggle: #20beff; // Bleu clair pour Kaggle
