@@ -236,7 +236,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visiter le site",
-          url: "https://ton-portfolio.com" // Remplace par l'URL de ton portfolio
+          url: "https://ayoublems.github.io/portfolioDev/" // Remplace par l'URL de ton portfolio
         }
       ]
     }
