@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/developerFolio/static/css/main.c982407b.css",
-    "main.js": "/developerFolio/static/js/main.1e5659b0.js",
+    "main.js": "/developerFolio/static/js/main.7f2e2919.js",
     "static/css/487.d4ba946d.chunk.css": "/developerFolio/static/css/487.d4ba946d.chunk.css",
     "static/js/487.7ae187c0.chunk.js": "/developerFolio/static/js/487.7ae187c0.chunk.js",
     "static/css/990.4ce9d8c5.chunk.css": "/developerFolio/static/css/990.4ce9d8c5.chunk.css",
@@ -14,11 +14,11 @@
     "static/media/LogoAtos.jpg": "/developerFolio/static/media/LogoAtos.8f80141459c5ad556371.jpg",
     "static/media/manOnTable.svg": "/developerFolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/logo-cooptin.png": "/developerFolio/static/media/logo-cooptin.430678430bad31cbf11d.png",
+    "static/media/freelanceLogo.jpg": "/developerFolio/static/media/freelanceLogo.5a6d5b7aad0688b87ee3.jpg",
     "static/media/holcim-lafarge.jpeg": "/developerFolio/static/media/holcim-lafarge.baad6dd2c6c06a37da69.jpeg",
     "static/media/contactMailDark.svg": "/developerFolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/kafkaLogo.png": "/developerFolio/static/media/kafkaLogo.d116376595f5aebb5bec.png",
     "static/media/developerActivity.svg": "/developerFolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
-    "static/media/LogoFreelancee.jpeg": "/developerFolio/static/media/LogoFreelancee.68e895fa1df6d759fa66.jpeg",
     "static/media/siiLogo.jpg": "/developerFolio/static/media/siiLogo.5cf885ae82b342283d54.jpg",
     "static/media/imtLogo.png": "/developerFolio/static/media/imtLogo.4dce8ce38f1426b58bdf.png",
     "static/media/minesRabatLogo.jpeg": "/developerFolio/static/media/minesRabatLogo.b12f46dbc084e6198d28.jpeg",
@@ -26,7 +26,7 @@
     "index.html": "/developerFolio/index.html",
     "static/media/talksCardBack.svg": "/developerFolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.c982407b.css.map": "/developerFolio/static/css/main.c982407b.css.map",
-    "main.1e5659b0.js.map": "/developerFolio/static/js/main.1e5659b0.js.map",
+    "main.7f2e2919.js.map": "/developerFolio/static/js/main.7f2e2919.js.map",
     "487.d4ba946d.chunk.css.map": "/developerFolio/static/css/487.d4ba946d.chunk.css.map",
     "487.7ae187c0.chunk.js.map": "/developerFolio/static/js/487.7ae187c0.chunk.js.map",
     "990.4ce9d8c5.chunk.css.map": "/developerFolio/static/css/990.4ce9d8c5.chunk.css.map",
@@ -34,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.c982407b.css",
-    "static/js/main.1e5659b0.js"
+    "static/js/main.7f2e2919.js"
   ]
 }
