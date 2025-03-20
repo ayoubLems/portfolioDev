@@ -1,6 +1,6 @@
 {
-  "homepage": "https://ayoublems.github.io/developerFolio",
-  "name": "developerfolio",
+  "homepage": "https://ayoublems.github.io/portfolioDev",
+  "name": "portfolioDev",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
