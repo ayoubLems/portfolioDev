@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolioDev/static/css/main.487f4d2c.css",
-    "main.js": "/portfolioDev/static/js/main.86a069fa.js",
+    "main.js": "/portfolioDev/static/js/main.c8b8fc59.js",
     "static/css/487.d4ba946d.chunk.css": "/portfolioDev/static/css/487.d4ba946d.chunk.css",
     "static/js/487.883c9bee.chunk.js": "/portfolioDev/static/js/487.883c9bee.chunk.js",
     "static/css/990.4ce9d8c5.chunk.css": "/portfolioDev/static/css/990.4ce9d8c5.chunk.css",
     "static/js/990.e8d818cf.chunk.js": "/portfolioDev/static/js/990.e8d818cf.chunk.js",
     "static/media/forestFireLogo.png": "/portfolioDev/static/media/forestFireLogo.c75634c8a959cf6ffc56.png",
     "static/media/logo-portfolio.png": "/portfolioDev/static/media/logo-portfolio.752eadfafaee42ec2068.png",
-    "static/media/resume.pdf": "/portfolioDev/static/media/resume.d78c74d58139d4fb3e93.pdf",
+    "static/media/resume.pdf": "/portfolioDev/static/media/resume.978cd9bf43fc71337776.pdf",
     "static/media/Montserrat-Regular.ttf": "/portfolioDev/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "/portfolioDev/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/LogoAtos.jpg": "/portfolioDev/static/media/LogoAtos.8f80141459c5ad556371.jpg",
@@ -26,7 +26,7 @@
     "index.html": "/portfolioDev/index.html",
     "static/media/talksCardBack.svg": "/portfolioDev/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.487f4d2c.css.map": "/portfolioDev/static/css/main.487f4d2c.css.map",
-    "main.86a069fa.js.map": "/portfolioDev/static/js/main.86a069fa.js.map",
+    "main.c8b8fc59.js.map": "/portfolioDev/static/js/main.c8b8fc59.js.map",
     "487.d4ba946d.chunk.css.map": "/portfolioDev/static/css/487.d4ba946d.chunk.css.map",
     "487.883c9bee.chunk.js.map": "/portfolioDev/static/js/487.883c9bee.chunk.js.map",
     "990.4ce9d8c5.chunk.css.map": "/portfolioDev/static/css/990.4ce9d8c5.chunk.css.map",
@@ -34,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.487f4d2c.css",
-    "static/js/main.86a069fa.js"
+    "static/js/main.c8b8fc59.js"
   ]
 }
