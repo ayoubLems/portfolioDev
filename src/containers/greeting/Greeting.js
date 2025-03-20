@@ -46,7 +46,7 @@ export default function Greeting() {
                     download="CV_Ayoub_Lemsoudi.pdf"
                     className="download-link-button"
                   >
-                    <Button text="Télécharger mon CV" />
+                    <Button text="Voir CV" />
                   </a>
                 )}
               </div>
