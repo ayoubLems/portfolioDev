@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolioDev/static/css/main.487f4d2c.css",
-    "main.js": "/portfolioDev/static/js/main.b2b90c44.js",
+    "main.js": "/portfolioDev/static/js/main.91f50803.js",
     "static/css/487.d4ba946d.chunk.css": "/portfolioDev/static/css/487.d4ba946d.chunk.css",
     "static/js/487.883c9bee.chunk.js": "/portfolioDev/static/js/487.883c9bee.chunk.js",
     "static/css/990.4ce9d8c5.chunk.css": "/portfolioDev/static/css/990.4ce9d8c5.chunk.css",
@@ -10,6 +10,7 @@
     "static/media/logo-portfolio.png": "/portfolioDev/static/media/logo-portfolio.752eadfafaee42ec2068.png",
     "static/media/resume.pdf": "/portfolioDev/static/media/resume.978cd9bf43fc71337776.pdf",
     "static/media/Montserrat-Regular.ttf": "/portfolioDev/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/linkedin-bot-logo.png": "/portfolioDev/static/media/linkedin-bot-logo.aa7c7c03f5a41f58d61d.png",
     "static/media/Agustina.woff": "/portfolioDev/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/LogoAtos.jpg": "/portfolioDev/static/media/LogoAtos.8f80141459c5ad556371.jpg",
     "static/media/manOnTable.svg": "/portfolioDev/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -26,7 +27,7 @@
     "index.html": "/portfolioDev/index.html",
     "static/media/talksCardBack.svg": "/portfolioDev/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.487f4d2c.css.map": "/portfolioDev/static/css/main.487f4d2c.css.map",
-    "main.b2b90c44.js.map": "/portfolioDev/static/js/main.b2b90c44.js.map",
+    "main.91f50803.js.map": "/portfolioDev/static/js/main.91f50803.js.map",
     "487.d4ba946d.chunk.css.map": "/portfolioDev/static/css/487.d4ba946d.chunk.css.map",
     "487.883c9bee.chunk.js.map": "/portfolioDev/static/js/487.883c9bee.chunk.js.map",
     "990.4ce9d8c5.chunk.css.map": "/portfolioDev/static/css/990.4ce9d8c5.chunk.css.map",
@@ -34,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.487f4d2c.css",
-    "static/js/main.b2b90c44.js"
+    "static/js/main.91f50803.js"
   ]
 }
