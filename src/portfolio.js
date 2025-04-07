@@ -205,6 +205,18 @@ const bigProjects = {
   subtitle: "QUELQUES PROJETS SUR LESQUELS J'AI TRAVAILLÉ",
   projects: [
     {
+      image: require("./assets/images/linkedin-bot-logo.png"), // Vous devrez ajouter une image pour ce projet
+      projectName: "LinkedIn Bot",
+      projectDesc:
+        "Un bot Python intelligent conçu pour automatiser la recherche d'emploi sur LinkedIn. Il aide les développeurs Java juniors à trouver des opportunités de premier emploi, en extrayant et analysant automatiquement des offres pertinentes. Le bot recherche des offres de type 'Premier emploi' ou 'Junior', extrait les 20 premières offres correspondantes, vérifie qu'elles sont bien destinées aux profils débutants, et sauvegarde les résultats dans des fichiers Excel structurés. Il analyse également les descriptions d'offres pour détecter les opportunités réellement adaptées aux juniors.",
+      footerLink: [
+        {
+          name: "Voir le code",
+          url: "https://github.com/ayoubLems/linkedin-bot"
+        }
+      ]
+    },
+    {
       image: require("./assets/images/forestFireLogo.png"), // Remplace par le chemin de l'image du projet
       projectName: "PropagationFeuForet",
       projectDesc:
