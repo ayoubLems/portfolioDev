@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/portfolioDev/static/css/main.487f4d2c.css",
-    "main.js": "/portfolioDev/static/js/main.f28e8383.js",
+    "main.js": "/portfolioDev/static/js/main.0c149d18.js",
     "static/css/487.d4ba946d.chunk.css": "/portfolioDev/static/css/487.d4ba946d.chunk.css",
-    "static/js/487.883c9bee.chunk.js": "/portfolioDev/static/js/487.883c9bee.chunk.js",
+    "static/js/487.431f88af.chunk.js": "/portfolioDev/static/js/487.431f88af.chunk.js",
     "static/css/990.4ce9d8c5.chunk.css": "/portfolioDev/static/css/990.4ce9d8c5.chunk.css",
-    "static/js/990.e8d818cf.chunk.js": "/portfolioDev/static/js/990.e8d818cf.chunk.js",
+    "static/js/990.cc07c410.chunk.js": "/portfolioDev/static/js/990.cc07c410.chunk.js",
     "static/media/forestFireLogo.png": "/portfolioDev/static/media/forestFireLogo.c75634c8a959cf6ffc56.png",
     "static/media/logo-portfolio.png": "/portfolioDev/static/media/logo-portfolio.752eadfafaee42ec2068.png",
     "static/media/Montserrat-Regular.ttf": "/portfolioDev/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -26,14 +26,14 @@
     "index.html": "/portfolioDev/index.html",
     "static/media/talksCardBack.svg": "/portfolioDev/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.487f4d2c.css.map": "/portfolioDev/static/css/main.487f4d2c.css.map",
-    "main.f28e8383.js.map": "/portfolioDev/static/js/main.f28e8383.js.map",
+    "main.0c149d18.js.map": "/portfolioDev/static/js/main.0c149d18.js.map",
     "487.d4ba946d.chunk.css.map": "/portfolioDev/static/css/487.d4ba946d.chunk.css.map",
-    "487.883c9bee.chunk.js.map": "/portfolioDev/static/js/487.883c9bee.chunk.js.map",
+    "487.431f88af.chunk.js.map": "/portfolioDev/static/js/487.431f88af.chunk.js.map",
     "990.4ce9d8c5.chunk.css.map": "/portfolioDev/static/css/990.4ce9d8c5.chunk.css.map",
-    "990.e8d818cf.chunk.js.map": "/portfolioDev/static/js/990.e8d818cf.chunk.js.map"
+    "990.cc07c410.chunk.js.map": "/portfolioDev/static/js/990.cc07c410.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.487f4d2c.css",
-    "static/js/main.f28e8383.js"
+    "static/js/main.0c149d18.js"
   ]
 }
