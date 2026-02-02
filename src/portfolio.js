@@ -24,7 +24,7 @@ const greeting = {
     "Développeur Backend Java passionné 🚀 avec une expérience dans la conception d'API, l'optimisation des performances et l'automatisation des processus métier."
   ),
   resumeLink:
-    "https://drive.google.com/uc?export=download&id=1ad54nPwQxTIQOSKmuZ__669CTV9IFOTL", // Remplace par le lien vers ton CV
+    "https://drive.google.com/uc?export=download&id=1TyEeMRXAPZgbT6tL1m32HGC-CORNFW03", // Remplace par le lien vers ton CV
   displayGreeting: true
 };
 
@@ -48,9 +48,9 @@ const skillsSection = {
   title: "Ce que je fais",
   subTitle: "DÉVELOPPEUR BACKEND SPÉCIALISÉ EN JAVA ET SPRING BOOT",
   skills: [
-    emoji("⚡ Conception et développement d'API RESTful avec Spring Boot."),
-    emoji("⚡ Optimisation des performances et de la maintenabilité du code."),
-    emoji("⚡ Collaboration en méthodologie Agile avec Jira et Git.")
+    emoji("⚡ Conception et développement d'API REST avec Spring Boot et Java EE."),
+    emoji("⚡ Optimisation des performances et fiabilité via tests et qualité logicielle."),
+    emoji("⚡ Collaboration Agile (Scrum) avec outillage CI/CD.")
   ],
   softwareSkills: [
     {
@@ -58,8 +58,44 @@ const skillsSection = {
       fontAwesomeClassname: "fab fa-java"
     },
     {
+      skillName: "Python",
+      fontAwesomeClassname: "fab fa-python"
+    },
+    {
+      skillName: "JavaScript",
+      fontAwesomeClassname: "fab fa-js"
+    },
+    {
+      skillName: "SQL",
+      fontAwesomeClassname: "fas fa-database"
+    },
+    {
       skillName: "Spring Boot",
       fontAwesomeClassname: "fas fa-leaf"
+    },
+    {
+      skillName: "Angular",
+      fontAwesomeClassname: "fab fa-angular"
+    },
+    {
+      skillName: "Java EE",
+      fontAwesomeClassname: "fab fa-java"
+    },
+    {
+      skillName: "GitLab",
+      fontAwesomeClassname: "fab fa-gitlab"
+    },
+    {
+      skillName: "Maven",
+      fontAwesomeClassname: "fas fa-tools"
+    },
+    {
+      skillName: "Postman",
+      fontAwesomeClassname: "fas fa-paper-plane"
+    },
+    {
+      skillName: "SonarQube",
+      fontAwesomeClassname: "fas fa-search"
     },
     {
       skillName: "PostgreSQL",
@@ -68,22 +104,6 @@ const skillsSection = {
     {
       skillName: "MongoDB",
       fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "Git",
-      fontAwesomeClassname: "fab fa-git-alt"
-    },
-    {
-      skillName: "Docker",
-      fontAwesomeClassname: "fab fa-docker"
-    },
-    {
-      skillName: "Kafka",
-      fontAwesomeClassname: "fas fa-stream"
-    },
-    {
-      skillName: "Angular",
-      fontAwesomeClassname: "fab fa-angular"
     }
   ],
   display: true
@@ -108,6 +128,13 @@ const educationInfo = {
       subHeader: "Diplôme d'ingénieur en Management des Systèmes d'Information",
       duration: "2020 – 2024",
       desc: "Formation en gestion des systèmes d'information et développement logiciel."
+    },
+    {
+      schoolName: "CPGE Meknès",
+      logo: require("./assets/images/cpge.jpeg"),
+      subHeader: "Classes Préparatoires aux Grandes Écoles, Maths-Physique",
+      duration: "2018 – 2020",
+      desc: "Formation intensive en mathématiques et physique."
     }
   ]
 };
@@ -139,40 +166,39 @@ const workExperiences = {
   display: true,
   experience: [
     {
-      role: "Développeur Full Stack Java/Angular (Freelance)",
-      company: "Freelance",
-      companylogo: require("./assets/images/freelanceLogo.jpg"),
-      date: "Octobre 2024 – Présent",
-      desc: "Développement d’une application web pour la gestion des réservations d’hôtel.",
+      role: "Ingénieur Analyste Développeur | CDI",
+      company: "EDT Company (Groupe Weexa)",
+      companylogo: require("./assets/images/edt.png"),
+      date: "Avril 2025 – Présent",
+      desc: "Plateforme de facturation électronique (PDP) — génération et traitement de factures.",
       descBullets: [
-        "Création d'un système de gestion des chambres, des disponibilités et des réservations pour un hôtel de 100 chambres.",
-        "Implémentation d’un système de notifications automatiques par e-mail pour la confirmation des réservations, ce qui a augmenté le taux de réservation de 15%.",
-        "Développement de l'application en utilisant Java (Spring Boot) pour le backend et Angular pour le frontend, assurant une gestion fluide de l'application."
+        "Analyse, maintenance et évolution de solutions de dématérialisation / EDI / facturation électronique (PDP, Peppol).",
+        "Contribution sur 4 projets : BCP-ASP (Java EE Struts/EJB – tracking/reprocess), BCP-KITS (libs partagées), EIMAv3 (Struts/Hibernate – recherche & export XML/PDF/ZIP), phoss-smp + Access Point (endpoint AS4, mapping End User, traçabilité MongoDB).",
+        "Corrections et évolutions sur modules Java (legacy) + documentation technique (architecture/flux/zones d’impact) en Agile/Scrum."
       ]
     },
     {
-      role: "Développeur Backend Java",
-      company: "Sii",
+      role: "Ingénieur Développeur Backend Java | Stage puis CDI",
+      company: "SII (client Groupe ADEO)",
       companylogo: require("./assets/images/siiLogo.jpg"),
-      date: "Mars 2024 – Septembre 2024 (6 mois)",
-      desc: "Développement de solutions logicielles pour la gestion des échanges de matériel entre les différentes business units de LEROY MERLIN.",
+      date: "Mars 2024 – Mars 2025",
+      desc: "Développement de solutions logicielles pour la gestion des échanges de matériel entre les business units.",
       descBullets: [
-        "Création d'API REST pour la gestion des contacts dans un environnement multi-schémas, avec une gestion de plus de 100 000 contacts.",
-        "Optimisation de la performance du système, réduction du temps de réponse des API de 30% grâce à l'utilisation de Spring Boot et PostgreSQL.",
-        "Amélioration de la maintenabilité du code et réduction des bugs de production de 40% en utilisant SonarQube pour l'analyse de code.",
-        "Collaboration en méthodologie Agile avec Jira, gestion de sprints de 2 semaines, livraison continue."
+        "Création d’API pour la gestion des contacts dans un environnement multi‑schéma (BDD).",
+        "Sécurisation des APIs : validation des entrées et gestion des erreurs pour protéger les données.",
+        "Collaboration en méthodologie Agile avec Jira."
       ]
     },
     {
-      role: "Développeur Applications Métier",
+      role: "Ingénieur Développeur | Stage",
       company: "LAFARGE",
       companylogo: require("./assets/images/holcim-lafarge.jpeg"),
-      date: "Avril 2023 – Septembre 2023 (5 mois)",
-      desc: "Développement d'un système de gestion de catalogues de formules/matières premières pour le laboratoire de Lafarge.",
+      date: "Avril 2023 – Septembre 2023",
+      desc: "Développement d'un système de gestion de catalogues de formules/matières premières.",
       descBullets: [
-        "Création d'API REST pour la gestion des formules et des mélanges utilisés en laboratoire, permettant de gérer plus de 2000 formules.",
-        "Optimisation des performances de traitement des données, réduisant le temps de calcul des formules de 25%.",
-        "Travail en méthode agile (Scrum) avec Jira pour la gestion des tâches et des sprints, ce qui a permis d'améliorer la livraison des fonctionnalités de 15%."
+        "Développement des back-end services pour gérer les flux de données critiques et automatiser les processus.",
+        "Optimisation des performances des APIs REST et gestion des données avec PostgreSQL.",
+        "Amélioration de la fiabilité des services avec tests unitaires et d’intégration (JUnit, SonarQube)."
       ]
     },
     {
@@ -288,16 +314,16 @@ const blogSection = {
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      url: "https://ayoublems.github.io/portfolioDev/",
+      title: "Blog à venir",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "Articles techniques et retours d’expérience à venir."
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
+      url: "https://www.linkedin.com/in/ayoub-lemsoudi-597a85201/",
+      title: "LinkedIn",
       description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+        "Retrouve mes actualités et publications professionnelles."
     }
   ],
   display: false // Set false to hide this section, defaults to true
@@ -313,10 +339,10 @@ const talkSection = {
 
   talks: [
     {
-      title: "Build Actions For Google Assistant",
-      subtitle: "Codelab at GDG DevFest Karachi 2019",
-      slides_url: "https://bit.ly/saadpasta-slides",
-      event_url: "https://www.facebook.com/events/2339906106275053/"
+      title: "Conférence / Talk",
+      subtitle: "Détails à venir",
+      slides_url: "https://ayoublems.github.io/portfolioDev/",
+      event_url: "https://ayoublems.github.io/portfolioDev/"
     }
   ],
   display: false // Set false to hide this section, defaults to true
@@ -330,7 +356,7 @@ const podcastSection = {
 
   // Please Provide with Your Podcast embeded Link
   podcast: [
-    "https://anchor.fm/codevcast/embed/episodes/DevStory---Saad-Pasta-from-Karachi--Pakistan-e9givv/a-a15itvo"
+    "https://ayoublems.github.io/portfolioDev/"
   ],
   display: false // Set false to hide this section, defaults to true
 };

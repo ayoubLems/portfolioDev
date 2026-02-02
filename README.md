@@ -30,12 +30,12 @@ Clonez ce dépôt et commencez à travailler sur votre machine locale :
 
 1. Clonez ce dépôt :
     ```bash
-    git clone https://github.com/ayoubLems/developerFolio.git
+    git clone https://github.com/ayoubLems/portfolioDev.git
     ```
    
 2. Allez dans le répertoire du projet :
     ```bash
-    cd developerFolio
+    cd portfolioDev
     ```
 
 3. Installez les dépendances :
@@ -45,9 +45,6 @@ Clonez ce dépôt et commencez à travailler sur votre machine locale :
 
 ## Contributeurs 🛠️
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg)](https://github.com/ayoubLems/developerFolio/graphs/contributors)
-
-### Liste des contributeurs :
 - [Ayoub Lemsoudi](https://github.com/ayoubLems) - Code, Idées
 
    
